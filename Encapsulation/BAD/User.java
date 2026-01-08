@@ -1,4 +1,4 @@
-package dojo.encapsulation.bad;
+package Encapsulation.BAD;
 
 public class User {
 
